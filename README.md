@@ -1,4 +1,4 @@
-tmplEditor
+# templateManager
 ==========
 
-A module for Logiks Framework's cms app
+Template Management for CMS and apps
